@@ -16,5 +16,5 @@ Discord_SendMessage(DISCORD_WEBHOOK, "Your Message");
 ```
 
 ## Contribute
-Pull request for fixes/features are welcome.
+Pull request for fixes/features are welcome.  
 If you have an issue you cant fix, create an issue.
